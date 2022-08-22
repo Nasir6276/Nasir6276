@@ -1,4 +1,4 @@
-### Hi there, i am Ismail Nasiru 👋
+### Hi there, i am Nasiru Ismail 👋
 
 
 - 🔭 I’m currently working on ... tubr.io
