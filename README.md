@@ -10,5 +10,3 @@
 - ⚡ Fun fact: ... i am interested in alot of things!
 
 <img src="https://github-readme-stats.vercel.app/api?username=Nasir6276&&show_icons=true_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-(https://github-readme-stats.vercel.app/api?username=Nasir6276&&show_icons=true_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
