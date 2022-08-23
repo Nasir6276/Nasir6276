@@ -15,4 +15,4 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir6276&&show_icons=true_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&theme=dark"/>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nasiru-ismail-ab8a5520b/))  [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Ismail_Nasiru_))
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nasiru-ismail-ab8a5520b/)  [![](https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter)](https://twitter.com/Ismail_Nasiru_)
